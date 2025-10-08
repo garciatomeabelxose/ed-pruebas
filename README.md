@@ -1,2 +1,2 @@
 # ed-pruebas
-mi repositorio de ed
+mi repositorio de 
